@@ -1,1 +1,1 @@
-# Hackerrank-Countrycodes-certificatecode
+# HackerrankCertifications-Countrycodes
